@@ -1,0 +1,19 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 150" width="144" height="150">
+	<title>New Project</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0.33-0.59h147.63v162.72h-147.63z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: none;stroke: #ee7622;stroke-width: 7.2 } 
+		.s1 { fill: #ee7622 } 
+		.s2 { fill: none;stroke: #ee7622;stroke-width: 4.3 } 
+	</style>
+	<g id="Mask" clip-path="url(#cp1)">
+		<path id="Path 4599" class="s0" d="m599.8 80.8c0 41.3-33.6 74.8-74.9 74.8-41.3 0-74.9-33.5-74.9-74.8 0-41.3 33.6-74.9 74.9-74.9 41.3 0 74.9 33.6 74.9 74.9z"/>
+		<path id="Path 4600" class="s1" d="m65.5 6.3l8.2 5.9-8.2 5.8v-3.2l-7 1.5c-29.2 6.1-50.4 32.3-50.4 62.3 0 35.1 28.5 63.6 63.6 63.6 35.1 0 63.7-28.5 63.7-63.6 0-28.4-18.2-52.5-44.2-60.7l7.6-5.4c9 3.7 17.2 9.3 24.2 16.5 13 13.4 20.1 31 20.1 49.6 0 39.3-32 71.4-71.4 71.4-39.3 0-71.4-32.1-71.4-71.4 0-34.8 26-65.1 60.3-70.5l4.9-0.8zm-11.8 98.1h-21.7v-43.4h21.7zm27.7 0h-21.7v-50.6h21.7zm28.4 0h-21.7v-57.9h21.7z"/>
+		<path id="Path 4601" class="s2" d="m29.7 111.9h81.2"/>
+		<path id="Path 4602" class="s1" d="m65.2 11.3l0.1-10.7 9.1 5.4 9.2 5.4-9.3 5.3-9.2 5.2z"/>
+	</g>
+</svg>

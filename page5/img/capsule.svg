@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 50" width="23" height="50">
+	<title>New Project</title>
+	<defs>
+		<image  width="23" height="24" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAYCAMAAAAmopZHAAAAAXNSR0IB2cksfwAAADNQTFRFAGSgAGSgAGSgAGSgAGSgAGSgAGSgAGSgAGSgAGSgAGSgAGSgAGSgAGSgAGSgAGSgAGSgzCieWgAAABF0Uk5TML9gQP+AEADAcNDwoLDgIFC5JsClAAAAW0lEQVR4nO3NgQqAMAgEUJvtbrWt+v+vLdmKCvuDBEEfeIoMXgXR0av4e3d8OF1XYfIcwsnhmUJkJ+Zw5yDRnOXFGc1RH7yYWZPxHgJezrX071UbdLdpi0Fxbjt3ugmEJmtIYgAAAABJRU5ErkJggg=="/>
+		<image  width="23" height="24" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAYCAMAAAAmopZHAAAAAXNSR0IB2cksfwAAAD9QTFRFAGSgAGSgAGSgAGSgAGSgAGSgAGSgAGSgAGSgAGSgAGSgAGSgAGSgAGSgAGSgAGSgAGSgAGSgAGSgAGSgAGSgiEBKrwAAABV0Uk5TACA/MBBvz//fn2Dvj6CQUK/gQLCAiLoKLwAAAFVJREFUeJztzcsOgCAMRNFSkfGNgv//rVITCIGuXHuXp0mHKGeYeaAmOzpI02xqXlaUNlt4R53LhwPQDh5t5+tX5wiy2TNi8qg40oLG8kj1m8LvX/wBpPMO2lFNBDAAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<g id="Folder 3">
+		<use id="Layer 2" href="#img1" x="0" y="26"/>
+		<use id="Layer 1" href="#img2" x="0" y="0"/>
+	</g>
+</svg>
